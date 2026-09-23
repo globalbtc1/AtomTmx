@@ -155,3 +155,13 @@ Semua percakapan dan pengaturan tersimpan otomatis.
 - **Jangan bagikan API key** ke siapa pun.
 - Kunci disimpan di `~/.config/termchat/config.json`, hanya di HP Anda.
 - Untuk memperbarui atau mengganti API key, buka ⚙ di dalam aplikasi.
+
+## Screenshot
+
+### Tampilan Chat
+
+![TermChat Chat](chat.png)
+
+### Pengaturan API
+
+![TermChat Settings](settings.png)
