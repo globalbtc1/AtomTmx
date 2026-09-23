@@ -1,5 +1,20 @@
 # AtomTmx
 Lightweight AI chat TUI for Termux with OpenAI API compatibility
+## Features
+
+- AI chat TUI untuk Termux
+- OpenAI-compatible API
+- OpenAI
+- OpenRouter
+- Groq
+- DeepSeek
+- Streaming response
+- Chat history
+- Model list
+- Multiple conversations
+- Local API key storage
+- Tidak membutuhkan server
+
 
 # Panduan Instalasi TermChat (untuk Pemula)
 
